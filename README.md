@@ -56,6 +56,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### JavaScript Beautifier
 - https://beautifier.io/
 - https://codebeautify.org/jsviewer
+- https://www.foxinfotech.in/2022/04/javascript-beautifier.html
 
 ### Unminify/Formating JSON - Check/Validating JSON
 - https://jsonformatter.curiousconcept.com/
